@@ -1,3 +1,4 @@
+import pandas as pd
 
 def convert_object_into_label(df):
     """label the object feature
