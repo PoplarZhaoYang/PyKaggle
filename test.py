@@ -7,3 +7,7 @@ def get_num_list(R=10):
 
 def work():
     print("work")
+
+    
+def go():
+    print("go")
